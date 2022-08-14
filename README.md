@@ -23,7 +23,6 @@ pip install -e .
 ```
 
 # Basic Usage
-There is a UI application which allows you to manually control the agent with the arrow keys:
 
 ```
 ./test_interactive_mode.py
